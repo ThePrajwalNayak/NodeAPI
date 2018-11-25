@@ -8,9 +8,8 @@ Exploring node.js, express, mogoose, mongodb
 
 
 ## Features
-Investor needs answer Questionnaire before Investing to find Risk Appetite. Once Risk is analysed Investor can take advisor assistance or Invest directly.
 
-Can view Advisor profile before choosing one
+CRUD operation on models
 
 Simulate wealth graph using parameters like age, income, risk 
 
@@ -20,7 +19,11 @@ Install MongoDB
 
 Create DB 
 
+use chitchat
+
 Create Collection
+
+db.createCollection("activities");
 
 git clone https://github.com/ThePrajwalNayak/RestAPI-NodeMongo-Basic.git
 
@@ -34,7 +37,6 @@ nodemon index.js
 
 node.js, express, mongoes, mongodb
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
