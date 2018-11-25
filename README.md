@@ -1,6 +1,6 @@
 # NodeMogo Rest API
 
-Exposing basic REST API end point for Activity model
+Exposing basic REST API end point for model
 
 ## Introducation
 
